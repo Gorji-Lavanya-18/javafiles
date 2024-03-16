@@ -19,6 +19,6 @@ int main()
     int a;
     cin>>a;
     obj.value(a);
-    obj.value("sravani");
+    obj.value("lavanya");
     obj.value(2.22);
 }
